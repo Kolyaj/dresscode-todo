@@ -1,0 +1,17 @@
+{
+  "name": "dresscode-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dresscode-botex": "0.0.21",
+    "dresscode-bricks": "^0.2.8",
+    "dresscode-quantum": "0.0.10",
+    "dresscodejs": "^2.0.5"
+  }
+}

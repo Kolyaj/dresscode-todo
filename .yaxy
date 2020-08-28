@@ -1,0 +1,3 @@
+/http:\/\/dev\.todo-list\.ru\/js\/([^?]+\.js)/ => bin: ~/node_modules/.bin/dresscodejs -i ~/js-dev/$1 -d
+    $SetResponseHeader Content-Type: application/javascript; charset=UTF-8
+dev.todo-list.ru => file://~/static
