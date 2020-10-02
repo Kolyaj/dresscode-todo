@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "dresscode-botex": "0.0.21",
-    "dresscode-bricks": "^0.2.8",
-    "dresscode-quantum": "0.0.10",
+    "dresscode-botex": "latest",
+    "dresscode-bricks": "latest",
+    "dresscode-quantum": "latest",
     "dresscodejs": "^2.0.5"
   }
 }
